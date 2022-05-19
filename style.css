@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  min-height: 100vh;
+  max-width: 100vw;
+  margin: auto;
+}
+
+.wrapper {
+  min-height: 600px;
+  max-height: 100vh;
+  margin: auto;
+}
+
+.love {
+  text-decoration: none;
+}
+
+.active {
+  display: none;
+}
